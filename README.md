@@ -1,1 +1,1 @@
-This is my frist project of git，this is test！
+This is my frist repository of git，this is test！
